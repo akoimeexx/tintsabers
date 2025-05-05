@@ -6,7 +6,11 @@
     "result": {
         "id": "minecraft:golden_sword",
         "components": {
-            "minecraft:item_name": "{\"type\": \"translatable\", \"translate\": \"akoimeexx.tintsabers.item.golden_tintsaber\", \"fallback\": \"Golden-core Tintsaber\"}",
+            "minecraft:item_name": {
+                "type": "translatable", 
+                "translate": "akoimeexx.tintsabers.item.golden_tintsaber", 
+                "fallback": "Golden-core Tintsaber"
+            },
             "minecraft:item_model": "akoimeexx:tintsabers/tintsaber", 
             "minecraft:custom_model_data": {"strings": ["powered"]},
             "minecraft:custom_data": {"tintsaber": true}

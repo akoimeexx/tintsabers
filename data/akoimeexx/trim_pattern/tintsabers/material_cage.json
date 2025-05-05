@@ -1,10 +1,9 @@
 {
-    "asset_id": "minecraft:empty",
+    "asset_id": "minecraft:iron_bars",
     "decal": true,
     "description": {
         "type": "translatable", 
         "translate": "akoimeexx.tintsabers.trim.material_cage", 
         "fallback": "Material Cage"
-    },
-    "template_item": "minecraft:iron_bars"
+    }
 }

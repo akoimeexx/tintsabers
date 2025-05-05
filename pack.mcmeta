@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 61,
+        "pack_format": 71,
         "description": {
             "type": "translatable", 
             "translate": "akoimeexx.datapack.tintsabers.description", 
@@ -13,7 +13,7 @@
         }, 
         "depends": ["tintsabers.resourcepack.zip"], 
         "author": "akoimeexx", 
-        "version": "1.0.0", 
+        "version": "1.0.1215", 
         "license": "BSD-3-CLAUSE", 
         "url": "https://modrinth.com/datapack/akoi-meexx-tintsabers"
     }
