@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "pack_format": 61,
+        "description": {
+            "type": "translatable", 
+            "translate": "akoimeexx.datapack.tintsabers.description", 
+            "fallback": "A gameplay datapack that introduces Tintsabers; custom-modeled swords that change color based on a minecraft team, and can also be trimmed to set permanent colors"
+        }, 
+        "title": {
+            "type": "translatable", 
+            "translate": "akoimeexx.datapack.tintsabers.title", 
+            "fallback": "Akoi Meexx's Tintsabers"
+        }, 
+        "depends": ["tintsabers.resourcepack.zip"], 
+        "author": "akoimeexx", 
+        "version": "1.0.0", 
+        "license": "BSD-3-CLAUSE", 
+        "url": "https://modrinth.com/datapack/akoi-meexx-tintsabers"
+    }
+}

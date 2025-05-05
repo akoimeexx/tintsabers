@@ -1,0 +1,17 @@
+[{
+    "function": "minecraft:set_custom_model_data",
+    "strings": {
+        "mode": "replace_all", 
+        "values": []
+    }
+}, {
+    "function": "minecraft:set_attributes", 
+    "replace": false, 
+    "modifiers": [{
+        "id": "akoimeexx:tintsaber_base_attack_damage",
+        "attribute": "minecraft:attack_damage", 
+        "slot": "mainhand",
+        "amount": -1, 
+        "operation": "add_multiplied_base"
+    }]
+}]

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:wooden_sword",
+    "addition": "minecraft:iron_ingot",
+    "template": "minecraft:netherite_upgrade_smithing_template",
+    "result": {
+        "id": "minecraft:wooden_sword",
+        "components": {
+            "minecraft:item_name": "{\"type\": \"translatable\", \"translate\": \"akoimeexx.tintsabers.item.wooden_tintsaber\", \"fallback\": \"Wooden-core Tintsaber\"}",
+            "minecraft:item_model": "akoimeexx:tintsabers/tintsaber", 
+            "minecraft:custom_model_data": {"strings": ["powered"]},
+            "minecraft:custom_data": {"tintsaber": true}
+        }
+    }
+}

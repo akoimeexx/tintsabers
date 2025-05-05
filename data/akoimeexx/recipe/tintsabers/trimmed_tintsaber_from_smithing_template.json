@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:smithing_trim",
+    "base": "#minecraft:swords",
+    "addition": "#minecraft:trim_materials",
+    "template": "minecraft:iron_bars"
+}
